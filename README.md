@@ -36,9 +36,9 @@ Congratulations!
 
 ### GUI (Nethra)
 
-- [ ] fix the scaling of the GUI
-- [ ] clean up GUI (remove extra buttons)
-- [ ] add place to show property predictions in the GUI
+- [x] fix the scaling of the GUI
+- [x] clean up GUI (remove extra buttons)
+- [x] add place to show property predictions in the GUI
 
 ### GNNs (Satarupa)
 
